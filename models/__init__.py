@@ -1,1 +1,1 @@
-from DeepAzul.models.simple_neural_network import SimpleNeuralNetwork
+from deepazul.models.simple_neural_network import SimpleNeuralNetwork

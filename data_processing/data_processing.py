@@ -3,7 +3,7 @@ import numpy
 import copy
 import msgpack
 from types import SimpleNamespace
-from DeepAzul.game_controller import AzulGameController, TITLE_COLORS
+from deepazul.game_controller import AzulGameController, TITLE_COLORS
 
 
 class DataProcessor:

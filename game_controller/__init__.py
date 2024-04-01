@@ -1,2 +1,2 @@
-from DeepAzul.game_controller.azul_game_controller import AzulGameController
-from DeepAzul.game_controller.title_colors import TITLE_COLORS
+from deepazul.game_controller.azul_game_controller import AzulGameController
+from deepazul.game_controller.title_colors import TITLE_COLORS

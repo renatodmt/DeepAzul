@@ -1,5 +1,5 @@
 import numpy
-from DeepAzul.data_processing import DataProcessor
+from deepazul.data_processing import DataProcessor
 #from sklearn.preprocessing import OneHotEncoder
 import tensorflow
 import sqlite3

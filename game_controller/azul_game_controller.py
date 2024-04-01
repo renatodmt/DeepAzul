@@ -3,7 +3,7 @@ import random
 import json
 import msgpack
 from types import SimpleNamespace
-from DeepAzul.game_controller.title_colors import TITLE_COLORS
+from deepazul.game_controller.title_colors import TITLE_COLORS
 
 FLOOR_LINE_PENALIZATION = (0, 1, 2, 4, 6, 8, 11, 14)
 INITIAL_STATUS = SimpleNamespace(**{
