@@ -1,0 +1,5383 @@
+[
+    {
+        "type": "test_features",
+        "status": {},
+        "output": {
+            "board_player0_row0_col0_point_prediction": 1
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row0_col0_point_prediction": 0
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row0_col0_point_prediction": 2
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row0_col0_point_prediction": 1
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row0_col1_point_prediction": 2
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row0_col0_point_prediction": 2
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row1_col0_point_prediction": 2
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row0_col1_point_prediction": 4
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row1_col0_point_prediction": 7
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row2_col2_point_prediction": 12
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "board_player0_row0_col0_point_prediction": 11
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {},
+        "output": {
+            "expected_difference_score_round_end": 0
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "scores": [
+                2,
+                0
+            ]
+        },
+        "output": {
+            "expected_difference_score_round_end": 2
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "scores": [
+                2,
+                0
+            ],
+            "floor_lines": [
+                [
+                    "red"
+                ],
+                []
+            ]
+        },
+        "output": {
+            "expected_difference_score_round_end": 1
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "pattern_lines": [
+                [
+                    {
+                        "color": "red",
+                        "used": 1
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ],
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ]
+        },
+        "output": {
+            "expected_difference_score_round_end": 1
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "pattern_lines": [
+                [
+                    {
+                        "color": "red",
+                        "used": 1
+                    },
+                    {
+                        "color": "orange",
+                        "used": 2
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ],
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ]
+        },
+        "output": {
+            "expected_difference_score_round_end": 3
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "pattern_lines": [
+                [
+                    {
+                        "color": "red",
+                        "used": 1
+                    },
+                    {
+                        "color": "orange",
+                        "used": 2
+                    },
+                    {
+                        "color": "blue",
+                        "used": 3
+                    },
+                    {
+                        "color": "white",
+                        "used": 4
+                    },
+                    {
+                        "color": "black",
+                        "used": 5
+                    }
+                ],
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ]
+        },
+        "output": {
+            "expected_difference_score_round_end": 22
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "expected_difference_score_round_end": -10
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "center": {
+                "blue": 0,
+                "orange": 0,
+                "red": 0,
+                "black": 3,
+                "white": 0,
+                "first_player_token": false
+            },
+            "factories": [
+                [],
+                [],
+                [],
+                [],
+                [
+                    "blue",
+                    "blue",
+                    "blue",
+                    "white"
+                ]
+            ]
+        },
+        "output": {
+            "total_factories_and_center_colorblue": 3
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "center": {
+                "blue": 0,
+                "orange": 0,
+                "red": 0,
+                "black": 3,
+                "white": 0,
+                "first_player_token": false
+            },
+            "factories": [
+                [],
+                [],
+                [],
+                [],
+                [
+                    "blue",
+                    "blue",
+                    "blue",
+                    "black"
+                ]
+            ]
+        },
+        "output": {
+            "total_factories_and_center_colorblack": 4
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {},
+        "output": {
+            "avaiable_space_player0_colororange": 15
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {},
+        "output": {
+            "avaiable_space_player0_colororange": 15
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "pattern_lines": [
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": "blue",
+                        "used": 2
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ],
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ]
+        },
+        "output": {
+            "avaiable_space_player0_colorblue": 13
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "pattern_lines": [
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": "blue",
+                        "used": 2
+                    },
+                    {
+                        "color": "white",
+                        "used": 1
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ],
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ]
+        },
+        "output": {
+            "avaiable_space_player0_colorblue": 10
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "pattern_lines": [
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": "blue",
+                        "used": 2
+                    },
+                    {
+                        "color": "white",
+                        "used": 1
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ],
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ],
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "avaiable_space_player0_colorblue": 6
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "scores": [
+                2,
+                0
+            ]
+        },
+        "output": {
+            "expected_difference_score_all_pattern_lines_completed": 2
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "scores": [
+                0,
+                0
+            ],
+            "pattern_lines": [
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ],
+                [
+                    {
+                        "color": "red",
+                        "used": 1
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ]
+        },
+        "output": {
+            "expected_difference_score_all_pattern_lines_completed": -1
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "scores": [
+                0,
+                0
+            ],
+            "pattern_lines": [
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ],
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": "white",
+                        "used": 1
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ]
+        },
+        "output": {
+            "expected_difference_score_all_pattern_lines_completed": -1
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {},
+        "output": {
+            "completed_rows_player0": 0
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "completed_rows_player0": 1
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "completed_rows_player0": 2
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {},
+        "output": {
+            "completed_columns_player0": 0
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "completed_columns_player0": 1
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "completed_columns_player0": 2
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {},
+        "output": {
+            "completed_colors_player0": 0
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "completed_colors_player0": 1
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": true
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": true
+                        },
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "completed_colors_player0": 2
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {},
+        "output": {
+            "titles_to_complete_player0_row1": 10
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "titles_to_complete_player0_row1": 8
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "pattern_lines": [
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ],
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": "white",
+                        "used": 1
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ]
+        },
+        "output": {
+            "titles_to_complete_player1_row1": 9
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {},
+        "output": {
+            "titles_to_complete_player0_colorblue": 15
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "boards": [
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": true
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": true
+                        },
+                        {
+                            "color": "orange",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": false
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ],
+                [
+                    [
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        }
+                    ],
+                    [
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        },
+                        {
+                            "color": "orange",
+                            "filled": true
+                        }
+                    ],
+                    [
+                        {
+                            "color": "orange",
+                            "filled": true
+                        },
+                        {
+                            "color": "red",
+                            "filled": false
+                        },
+                        {
+                            "color": "black",
+                            "filled": false
+                        },
+                        {
+                            "color": "white",
+                            "filled": false
+                        },
+                        {
+                            "color": "blue",
+                            "filled": false
+                        }
+                    ]
+                ]
+            ]
+        },
+        "output": {
+            "titles_to_complete_player0_colorblue": 11
+        }
+    },
+    {
+        "type": "test_features",
+        "status": {
+            "pattern_lines": [
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ],
+                [
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": "blue",
+                        "used": 1
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    },
+                    {
+                        "color": null,
+                        "used": 0
+                    }
+                ]
+            ]
+        },
+        "output": {
+            "titles_to_complete_player1_colorblue": 14
+        }
+    }
+]
