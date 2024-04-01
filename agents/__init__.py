@@ -1,1 +1,1 @@
-from agents.agents import RandomAgent, NeuralNetworkAgent
+from DeepAzul.agents.agents import RandomAgent, NeuralNetworkAgent

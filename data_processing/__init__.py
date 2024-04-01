@@ -1,1 +1,1 @@
-from data_processing.data_processing import DataProcessor
+from DeepAzul.data_processing.data_processing import DataProcessor
