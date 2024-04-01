@@ -1,4 +1,4 @@
-from game_controller import AzulGameController
+from DeepAzul.game_controller import AzulGameController
 import random
 import pandas
 import numpy
