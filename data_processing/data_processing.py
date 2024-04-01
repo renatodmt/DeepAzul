@@ -14,7 +14,7 @@ class DataProcessor:
         return pandas.concat([self.process_game_log(game_log) for game_log in game_logs], ignore_index=True)
 
     def process_game_log(self, game_log):
-        game_log = msgpack.load(game_log)
+        game_log = msgpack.unpackb(game_log)
         game_winner = game_log[-1].winner
         features = [self.get_features_from_game_log(status) for status in game_log]
         result = pandas.DataFrame(features).astype(numpy.int8)
